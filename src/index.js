@@ -31,6 +31,7 @@ function Room() {
       <button onClick={() => setTemp(--temp)}>-</button>
       
       <hr />
+      <i>Nouman Javed</i>
 
     </div>
   );
